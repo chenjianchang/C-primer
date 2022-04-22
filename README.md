@@ -1,2 +1,2 @@
-# C-primer
+# CPP-primer
 C++ primer book's codes
